@@ -8402,3 +8402,664 @@ Who?
 02:05:45,790 --> 02:05:49,290
 Yes, it's you, LOVELINUS.
 
+2046
+02:05:51,950 --> 02:05:55,180
+Well, now we have last...
+
+2047
+02:05:55,180 --> 02:05:57,220
+Three songs.
+
+2048
+02:05:58,750 --> 02:06:00,240
+I know it's sad.
+
+2049
+02:06:00,240 --> 02:06:06,660
+Please pour all your energy left to our last three songs, okay?
+
+2050
+02:06:06,660 --> 02:06:07,790
+YES!!
+
+2051
+02:06:07,790 --> 02:06:09,660
+Then, let's go to the next song.
+
+2052
+02:06:09,660 --> 02:06:11,730
+- Let's go!
+- Let's go.
+
+2053
+02:06:33,390 --> 02:06:36,560
+♪ When I first met you ♫
+
+2054
+02:06:36,560 --> 02:06:40,430
+♪ It was a little earlier than what you remember ♫
+
+2055
+02:06:40,990 --> 02:06:46,830
+♪ I always secretly looked at you from behind ♫
+
+2056
+02:06:46,830 --> 02:06:48,840
+♪ You wouldn’t really know ♫
+
+2057
+02:06:48,840 --> 02:06:51,740
+♪ If I were to be honest ♫
+
+2058
+02:06:51,740 --> 02:06:56,580
+♪ Will my frustrated heart feel relieved? ♫
+
+2059
+02:06:56,580 --> 02:06:59,480
+♪ If I tell you everything ♫
+
+2060
+02:06:59,480 --> 02:07:04,250
+♪ What if things get awkward? ♫
+
+2061
+02:07:04,250 --> 02:07:06,320
+♪ I look in the mirror ♫
+
+2062
+02:07:06,320 --> 02:07:08,570
+♪ Count to one ♫
+
+2063
+02:07:08,570 --> 02:07:11,830
+♪ Count to two, then say Hi~ ♫
+
+2064
+02:07:11,830 --> 02:07:15,860
+♪ Do you want to meet? I have something to tell you ♫
+
+2065
+02:07:15,860 --> 02:07:17,860
+♪ Let’s meet because I have something to ask you ♫
+
+2066
+02:07:17,860 --> 02:07:24,100
+♪ I’m saying this with courage ♫
+
+2067
+02:07:24,100 --> 02:07:27,470
+♪ So please answer me honestly ♫
+
+2068
+02:07:27,470 --> 02:07:31,410
+♪ Do you want to meet? I’ve waited for a long time ♫
+
+2069
+02:07:31,410 --> 02:07:35,150
+♪ Let’s meet, not just as friends ♫
+
+2070
+02:07:35,150 --> 02:07:41,860
+♪ Hey, you see, I really love you ♫
+
+2071
+02:07:50,230 --> 02:07:53,500
+♪ I endlessly practiced ♫
+
+2072
+02:07:53,500 --> 02:07:57,970
+♪ But I can’t help it, my heart is trembling ♫
+
+2073
+02:07:57,970 --> 02:08:01,010
+♪ What do I do? I keep getting scared ♫
+
+2074
+02:08:01,010 --> 02:08:05,650
+♪ If I have to do it, I should do it quickly ♫
+
+2075
+02:08:05,650 --> 02:08:08,000
+♪ I’ll call you ♫
+
+2076
+02:08:08,000 --> 02:08:09,720
+♪ Count to one ♫
+
+2077
+02:08:09,720 --> 02:08:13,220
+♪ Count to two, then say Hi~ ♫
+
+2078
+02:08:13,220 --> 02:08:17,390
+♪ Do you want to meet? I have something to tell you ♫
+
+2079
+02:08:17,390 --> 02:08:21,080
+♪ Let’s meet because I have something to ask you ♫
+
+2080
+02:08:21,080 --> 02:08:25,470
+♪ I’m saying this with courage ♫
+
+2081
+02:08:25,470 --> 02:08:28,940
+♪ So please answer me honestly ♫
+
+2082
+02:08:28,940 --> 02:08:32,770
+♪ Do you want to meet? I’ve waited for a long time ♫
+
+2083
+02:08:32,770 --> 02:08:36,580
+♪ Let’s meet, not just as friends ♫
+
+2084
+02:08:36,580 --> 02:08:44,050
+♪ Hey, you see, I really love you ♫
+
+2085
+02:08:44,050 --> 02:08:47,050
+♪ This minute, this second of this moment ♫
+
+2086
+02:08:47,050 --> 02:08:50,890
+♪ Feels longer than yesterday ♫
+
+2087
+02:08:51,090 --> 02:08:57,660
+♪ Don’t just smile but say something ♫
+
+2088
+02:08:59,500 --> 02:09:03,500
+♪ Stop doing that, what’s so funny? ♫
+
+2089
+02:09:03,500 --> 02:09:05,500
+♪ Stop doing that, I’m serious here ♫
+
+2090
+02:09:05,500 --> 02:09:11,580
+♪ I’m saying this with courage ♫
+
+2091
+02:09:11,580 --> 02:09:15,080
+♪ So please answer me honestly ♫
+
+2092
+02:09:15,080 --> 02:09:18,950
+♪ Do you want to meet? I’ve waited for a long time ♫
+
+2093
+02:09:18,950 --> 02:09:22,620
+♪ Let’s meet, not just as friends ♫
+
+2094
+02:09:22,620 --> 02:09:29,700
+♪ Hey, you see, I really love you ♫
+
+2095
+02:09:59,790 --> 02:10:03,960
+♪ I found someone ♫
+
+2096
+02:10:03,960 --> 02:10:06,800
+♪ I’d like to make good food for ♫
+
+2097
+02:10:07,670 --> 02:10:11,540
+♪ I’m not very good at cooking ♫
+
+2098
+02:10:11,540 --> 02:10:14,410
+♪ But I’m working on it ♫
+
+2099
+02:10:15,140 --> 02:10:19,510
+♪ I even have hidden talents just for you ♫
+
+2100
+02:10:19,510 --> 02:10:22,250
+♪ Like cute charms ♫
+
+2101
+02:10:22,750 --> 02:10:28,920
+♪ You’ll never be bored, I’ll make you laugh ♫
+
+2102
+02:10:29,890 --> 02:10:33,530
+♪ But you have no idea ♫
+
+2103
+02:10:33,530 --> 02:10:34,530
+♪ Ah Choo! ♫
+
+2104
+02:10:35,260 --> 02:10:38,400
+♪ I feel like sneezing when I see you ♫
+
+2105
+02:10:38,400 --> 02:10:42,400
+♪ There are so many things I wanna tell you ♫
+
+2106
+02:10:42,400 --> 02:10:48,680
+♪ My lips tickle, it’s hard holding back ♫
+
+2107
+02:10:48,680 --> 02:10:49,910
+♪ Ah Choo! ♫
+
+2108
+02:10:50,040 --> 02:10:53,480
+♪ Flowers must be blooming in my heart ♫
+
+2109
+02:10:53,480 --> 02:10:57,550
+♪ There are so many things I wanna do for you ♫
+
+2110
+02:10:57,550 --> 02:11:04,060
+♪ My feelings, this love for you is hard to contain ♫
+
+2111
+02:11:06,130 --> 02:11:10,100
+♪ I found someone ♫
+
+2112
+02:11:10,100 --> 02:11:12,930
+♪ I’d like to wake in the morning ♫
+
+2113
+02:11:13,830 --> 02:11:17,740
+♪ I like to sleep in ♫
+
+2114
+02:11:17,740 --> 02:11:20,740
+♪ But won’t mind getting up early ♫
+
+2115
+02:11:21,140 --> 02:11:28,520
+♪ When I see you feeling down, I feel sad too ♫
+
+2116
+02:11:28,520 --> 02:11:34,750
+♪ I’ll be there whenever you need me ♫
+
+2117
+02:11:35,890 --> 02:11:39,630
+♪ But you have no idea ♫
+
+2118
+02:11:39,630 --> 02:11:40,760
+♪ Ah Choo! ♫
+
+2119
+02:11:41,190 --> 02:11:44,500
+♪ I feel like sneezing when I see you ♫
+
+2120
+02:11:44,500 --> 02:11:48,540
+♪ There are so many things I wanna tell you ♫
+
+2121
+02:11:48,540 --> 02:11:54,670
+♪ My lips tickle, it’s hard holding back ♫
+
+2122
+02:11:54,810 --> 02:11:55,910
+♪ Ah Choo! ♫
+
+2123
+02:11:56,340 --> 02:11:59,710
+♪ Flowers must be blooming in my heart ♫
+
+2124
+02:11:59,710 --> 02:12:03,680
+♪ There are so many things I wanna do for you ♫
+
+2125
+02:12:03,680 --> 02:12:10,120
+♪ My feelings, this love for you is hard to contain ♫
+
+2126
+02:12:17,100 --> 02:12:22,340
+♪ When you call me a good friend ♫
+
+2127
+02:12:22,340 --> 02:12:26,070
+♪ I really like it ♫
+
+2128
+02:12:26,070 --> 02:12:30,110
+♪ Unfinished letters I write all night ♫
+
+2129
+02:12:30,280 --> 02:12:33,850
+♪ Love I haven’t confessed yet ♫
+
+2130
+02:12:36,220 --> 02:12:37,480
+♪ Ah Choo! ♫
+
+2131
+02:12:37,850 --> 02:12:41,120
+♪ I feel like sneezing when I see you ♫
+
+2132
+02:12:41,120 --> 02:12:45,120
+♪ There are so many things I wanna tell you ♫
+
+2133
+02:12:45,120 --> 02:12:51,200
+♪ My lips tickle, it’s hard holding back ♫
+
+2134
+02:12:51,200 --> 02:12:52,530
+♪ Ah Choo! ♫
+
+2135
+02:12:53,100 --> 02:12:56,270
+♪ Flowers must be blooming in my heart ♫
+
+2136
+02:12:56,270 --> 02:13:00,310
+♪ There are so many things I wanna do for you ♫
+
+2137
+02:13:00,310 --> 02:13:06,850
+♪ My feelings, this love for you is hard to contain ♫
+
+2138
+02:13:42,380 --> 02:13:45,250
+♪ Why aren’t I waking up? ♫
+
+2139
+02:13:45,250 --> 02:13:48,990
+♪ I always wake up right about now ♫
+
+2140
+02:13:50,060 --> 02:13:52,890
+♪ I’m not saying I don’t like it ♫
+
+2141
+02:13:52,890 --> 02:13:58,060
+♪ It’s just not hitting me, to be honest ♫
+
+2142
+02:13:58,060 --> 02:14:03,700
+♪ Why are you softly holding my hand and whispering to me? ♫
+
+2143
+02:14:03,700 --> 02:14:06,840
+♪ I don’t know, I can’t hear anything ♫
+
+2144
+02:14:06,840 --> 02:14:08,740
+♪ You’re too close ♫
+
+2145
+02:14:08,740 --> 02:14:12,810
+♪ The whole world is spinning, I’m dizzy ♫
+
+2146
+02:14:14,180 --> 02:14:18,320
+♪ Right now, you and I, everything seems unreal ♫
+
+2147
+02:14:18,320 --> 02:14:22,090
+♪ Each minute with you feels unreal ♫
+
+2148
+02:14:22,090 --> 02:14:25,790
+♪ Is this a dream? Or not? I feel hazy ♫
+
+2149
+02:14:25,790 --> 02:14:27,830
+♪ You say that you like me ♫
+
+2150
+02:14:27,830 --> 02:14:29,930
+♪ What do I do? I guess this is for real ♫
+
+2151
+02:14:29,930 --> 02:14:33,830
+♪ We’re walking under the light ♫
+
+2152
+02:14:33,830 --> 02:14:37,640
+♪ Round and round, my eyes follow you ♫
+
+2153
+02:14:37,640 --> 02:14:41,440
+♪ I’m lightly trying to match my steps with yours ♫
+
+2154
+02:14:41,440 --> 02:14:43,140
+♪ I guess this is real ♫
+
+2155
+02:14:43,140 --> 02:14:45,350
+♪ I guess we’re gonna be lovers ♫
+
+2156
+02:14:46,050 --> 02:14:48,650
+♪ I think I’m running out of breath ♫
+
+2157
+02:14:48,650 --> 02:14:52,590
+♪ Not saying this awkwardness is bad ♫
+
+2158
+02:14:53,820 --> 02:14:56,390
+♪ That loving look ♫
+
+2159
+02:14:56,390 --> 02:15:01,460
+♪ It resembles me looking at you ♫
+
+2160
+02:15:01,630 --> 02:15:03,600
+♪ I slightly opened my eyes ♫
+
+2161
+02:15:03,600 --> 02:15:07,170
+♪ And measured the distance between us ♫
+
+2162
+02:15:07,170 --> 02:15:10,240
+♪ There’s only one inch left ♫
+
+2163
+02:15:10,240 --> 02:15:12,140
+♪ We might touch soon ♫
+
+2164
+02:15:12,140 --> 02:15:16,340
+♪ The whole world is spinning, I’m dizzy ♫
+
+2165
+02:15:17,440 --> 02:15:21,680
+♪ Right now, you and I, everything seems unreal ♫
+
+2166
+02:15:21,680 --> 02:15:25,490
+♪ Each minute with you feels unreal ♫
+
+2167
+02:15:25,490 --> 02:15:29,220
+♪ Is this a dream? Or not? I feel hazy ♫
+
+2168
+02:15:29,220 --> 02:15:31,160
+♪ You say that you like me ♫
+
+2169
+02:15:31,160 --> 02:15:33,330
+♪ What do I do? I guess this is for real ♫
+
+2170
+02:15:33,330 --> 02:15:37,260
+♪ We’re walking under the light ♫
+
+2171
+02:15:37,260 --> 02:15:41,130
+♪ Round and round, my eyes follow you ♫
+
+2172
+02:15:41,130 --> 02:15:44,800
+♪ I’m lightly trying to match my steps with yours ♫
+
+2173
+02:15:44,940 --> 02:15:46,470
+♪ I guess this is real ♫
+
+2174
+02:15:46,470 --> 02:15:48,670
+♪ I guess we’re gonna be lovers ♫
+
+2175
+02:15:48,670 --> 02:15:52,380
+♪ The melody that started in my ear ♫
+
+2176
+02:15:52,380 --> 02:15:56,420
+♪ I countlessly drew this out ♫
+
+2177
+02:15:56,420 --> 02:16:00,020
+♪ Your trembling, my fluttering ♫
+
+2178
+02:16:00,020 --> 02:16:05,730
+♪ We’re dancing in a soft pink light ♫
+
+2179
+02:16:05,730 --> 02:16:09,630
+♪ You and I being this close seems unreal ♫
+
+2180
+02:16:09,630 --> 02:16:13,470
+♪ Your heart ringing like crazy seems unreal ♫
+
+2181
+02:16:13,470 --> 02:16:17,170
+♪ Is this a dream? Or not? I feel hazy ♫
+
+2182
+02:16:17,170 --> 02:16:19,240
+♪ You say that you love me ♫
+
+2183
+02:16:19,240 --> 02:16:21,210
+♪ What do I do? I guess this is for real ♫
+
+2184
+02:16:21,210 --> 02:16:25,210
+♪ We’re walking under the light ♫
+
+2185
+02:16:25,210 --> 02:16:29,220
+♪ Round and round, my eyes follow you ♫
+
+2186
+02:16:29,220 --> 02:16:32,850
+♪ I’m lightly trying to match my steps with yours ♫
+
+2187
+02:16:32,850 --> 02:16:34,500
+♪ I guess this is real ♫
+
+2188
+02:16:34,500 --> 02:16:36,790
+♪ I guess we’re gonna be lovers ♫
+
+2189
+02:17:14,630 --> 02:17:19,310
+Hello LOVELINUS, I'm Baby Soul >-<
+The eight of us will always be by your side like you've been for us.
+Thank you, we love you ❤ Let's be together forever ❤❤
+
+2190
+02:17:19,310 --> 02:17:24,210
+We will always sing by LOVELINUS side ❤
+LOVELINUS, promise us you will always be with LOVELYZ >_<
+Thank you always!! I love you ❤3❤
+We will always be together, bbyong ❤
+
+2191
+02:17:24,210 --> 02:17:29,390
+LOVELINUS~ Thank you for being always by my side.
+The reason I sing is LOVELINUS.
+I will be e asinger who make you proud. Thank you.
+
+2192
+02:17:29,390 --> 02:17:31,040
+Hello, I'm LOVELYZ's MiJoo ❤
+Thank you so much for being next to LOVELYZ always.
+
+2193
+02:17:31,040 --> 02:17:32,790
+Please, remember our memories of the second concert 'ALWAYZ'.
+I wish we could always be together >_<
+
+2194
+02:17:32,790 --> 02:17:34,190
+LOVELYZ and LOVELINUS will be always together.
+I'll love you forever ❤ ❤  From MiJoo...❤
+
+2195
+02:17:34,190 --> 02:17:35,250
+Oh~ What's going on? ❤
+Do you know how much I missed you?
+
+2196
+02:17:35,250 --> 02:17:37,450
+Why, why! I'm not lying.
+I love LOVELINUS so much ❤
+
+2197
+02:17:37,450 --> 02:17:38,930
+This much~ This much~ This much~
+I really~ like you chu, chu ❤
+
+2198
+02:17:38,930 --> 02:17:39,950
+To. LOVELINUS~ ❤3❤
+LOVELINUS~ Hi~!! I'm YeIn >__<!!
+
+2199
+02:17:39,950 --> 02:17:42,090
+I will never forget the love from LOVELINUS that I'll never receive again in my life and I'll be the one that grows up every moment with you.
+
+2200
+02:17:42,090 --> 02:17:43,960
+I love you, LOVELINUS❤ ❤ ❤  100% filled with love.
+
+2201
+02:17:43,960 --> 02:17:45,090
+1. Always and forever (LOVELYZ❤LOVELINUS)
+
+2202
+02:17:45,090 --> 02:17:46,130
+2. (Remember) always (LOVELIZ❤LOVELINUS)
+
+2203
+02:17:46,130 --> 02:17:47,630
+3. (In the future) until forever (LOVELYZ❤LOVELINUS)
+
+2204
+02:17:47,630 --> 02:17:48,970
+Just as always [like always]
+(LOVELYZ❤LOVELINUS)
+
+2205
+02:17:48,970 --> 02:17:50,300
+Do you remember our first concert?
+We cried, laughed and made memories together.
+
+2206
+02:17:50,300 --> 02:17:53,790
+We will make you unforgettable memories on July of 2017.
+
